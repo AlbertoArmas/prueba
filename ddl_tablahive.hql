@@ -1,0 +1,1 @@
+-- 1. Creación tabla DDl para Hive
