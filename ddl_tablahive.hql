@@ -1,1 +1,2 @@
 -- 1. Creación tabla DDl para Hive
+--  2. Autor Alberto Armas 
